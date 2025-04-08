@@ -1,0 +1,7 @@
+streamlit
+python-dotenv
+Pillow
+google-generativeai
+gTTS
+googletrans==4.0.0rc1
+streamlit-drawable-canvas
